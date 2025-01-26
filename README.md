@@ -13,6 +13,16 @@ This project has been an incredible learning experience, and I'm thrilled with t
 💻 Check it out here: [Add your project link]
 I'd love to hear your thoughts! Feel free to connect and share feedback. 🙌
 
-#ReactJS #WebDevelopment #GeminiApp #Frontend #Programming #SoftwareEngineering
+<div align="center">
+  <img src="https://github.com/aneeshlalwani/google-gemini-clone/blob/main/src/assets/Screenshot 2025-01-26 132217?raw=true"/>
+</div>
+
+# How to use
+
+1.  Clone the repo <code>git clone https://github.com/aneeshlalwani/google-gemini-clone </code>
+2.  Install required dependencies <code>npm i</code>
+3. Run the server <code>npm run dev</code>
+
+
 
 
