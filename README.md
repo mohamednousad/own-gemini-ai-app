@@ -1,7 +1,7 @@
 # own-gemini-ai-app
 🚀 Excited to share my latest project: Gemini Web Application! 🌟
 
-I built this application from scratch using React, showcasing my skills in modern web development. 🖥️✨
+I built this application from scratch using React and Vite!, showcasing my skills in modern web development. 🖥️✨
 
 🌐 Key Highlights:
 
