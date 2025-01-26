@@ -16,7 +16,7 @@ I'd love to hear your thoughts! Feel free to connect and share feedback. 🙌
 <div align="center">
 </div>
 
-https://github.com/mohamednousad/own-gemini-ai-app/issues/1#issue-2811384341
+![output image](path/to/your/image.png)1
 # How to use
 
 1.  Clone the repo <code>git clone https://github.com/aneeshlalwani/google-gemini-clone </code>
