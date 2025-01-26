@@ -14,7 +14,7 @@ This project has been an incredible learning experience, and I'm thrilled with t
 I'd love to hear your thoughts! Feel free to connect and share feedback. 🙌
 
 <div align="center">
-  <img src="https://github.com/aneeshlalwani/google-gemini-clone/blob/main/src/assets/Screenshot 2025-01-26 132217?raw=true"/>
+  <img src="https://github.com/aneeshlalwani/google-gemini-clone/blob/main/src/assets/Screenshot 2025-01-26 132217.png?raw=true"/>
 </div>
 
 # How to use
