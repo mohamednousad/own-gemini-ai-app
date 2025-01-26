@@ -16,7 +16,9 @@ I'd love to hear your thoughts! Feel free to connect and share feedback. 🙌
 <div align="center">
 </div>
 
-![output image](path/to/your/image.png)1
+![output image](
+https://github.com/mohamednousad/own-gemini-ai-app/blob/196c0cb0669a61cb30d0ed3f2d7e496e715f070d/src/assets/output.png
+)1
 # How to use
 
 1.  Clone the repo <code>git clone https://github.com/aneeshlalwani/google-gemini-clone </code>
