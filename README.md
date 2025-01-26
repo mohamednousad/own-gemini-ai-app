@@ -10,7 +10,7 @@ I built this application from scratch using React, showcasing my skills in moder
 🎨 Clean and intuitive user interface
 This project has been an incredible learning experience, and I'm thrilled with the result! 💡
 
-💻 Check it out here:https://github.com/mohamednousad/own-gemini-ai-app
+💻 Check it out here: https://github.com/mohamednousad/own-gemini-ai-app
 I'd love to hear your thoughts! Feel free to connect and share feedback. 🙌
 
   ![output image](
